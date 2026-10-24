@@ -28,6 +28,12 @@ GTFS Sweden 3 static timetable data from Trafiklab, published by Samtrafiken i S
 
 The analysis uses scheduled timetable data, not real-time delays, passenger counts, or confirmation that trips actually operated.
 
+## Visualizations
+
+### Average Scheduled Trips by SL Route
+
+![Top 10 SL routes by average scheduled trips](images/sl_top_10_routes.png)
+
 ## Project Structure
 - `images/` — Visualizations created during the analysis.
 - `.ipynb` — Jupyter Notebook containing the Python analysis.
